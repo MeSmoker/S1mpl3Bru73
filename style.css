@@ -1,0 +1,21 @@
+#form_sign_in{
+	width: 250px;
+	height: 200px;
+	margin: auto;
+}
+
+
+.input{
+	margin-left:40px;
+	margin-top:20px;
+}
+
+fieldset a{
+	margin-left: 48px;
+	margin-bottom: 3px;
+}
+
+.btn_input{
+	margin-top: 10px;
+	width: 173px;
+}
